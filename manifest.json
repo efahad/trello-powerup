@@ -1,0 +1,15 @@
+{
+  "name": "My Trello Power-Up",
+  "url": "https://efahad.github.io/trello-powerup/",
+  "icons": {
+    "16": "https://cdn-icons-png.flaticon.com/512/148/148841.png",
+    "32": "https://cdn-icons-png.flaticon.com/512/148/148841.png",
+    "64": "https://cdn-icons-png.flaticon.com/512/148/148841.png"
+  },
+  "author": "efahad",
+  "capabilities": {
+    "card-buttons": {
+      "url": "index.html"
+    }
+  }
+}
